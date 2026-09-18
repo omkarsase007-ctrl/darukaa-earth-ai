@@ -16,5 +16,3 @@ Open http://localhost:8000/docs
 In a second terminal:
     .venv\Scripts\Activate.ps1
     streamlit run frontend/app.py
-
-Open http://localhost:8501
